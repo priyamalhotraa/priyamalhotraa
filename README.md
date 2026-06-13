@@ -38,13 +38,13 @@
 
 ##  GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=priyamalhotraa&theme=tokyonight&hide_border=true&show_icons=true)
 
-![](https://streak-stats.demolab.com/?user=priyamalhotraa&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyamalhotraa&theme=tokyonight&hide_border=true&layout=compact)
+<p >
+  <img src="https://streak-stats.demolab.com/?user=priyamalhotraa&theme=onedark&hide_border=true" width="55%"/>
 
-<br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyamalhotraa&theme=onedark&hide_border=true&layout=compact" width="39.5%"/>
+</p>
 
 <div align="center">
 
