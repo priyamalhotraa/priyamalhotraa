@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋, I'm Priya Malhotra<br><br>Computer Science Student | DSA Enthusiast | Tech Explorer<br><br>I'm passionate about learning, building, and growing as a developer. I enjoy solving coding challenges, understanding algorithms, and creating web applications that bring ideas to life.<br><br>🌱 Continuously learning new technologies and improving my problem-solving skills  <br>✉️ Reach me at: priyamalhotra14012005@gmail.com  <br>💻 Currently focused on Data Structures & Algorithms in C++ and Web Development  <br>💼 Open to internship opportunities and entry-level software development roles<br>🚀 Interested in software development, problem solving, and building impactful projects  <br>⚡ Always eager to learn, code, and take on new challenges
+## Hi there 👋, I'm Priya Malhotra<br><br>Computer Science Student | DSA Enthusiast | Tech Explorer<br><br>🌱 Continuously learning new technologies and improving my problem-solving skills  <br>✉️ Reach me at: priyamalhotra14012005@gmail.com  <br>💻 Currently focused on Data Structures & Algorithms in C++ and Web Development  <br>💼 Open to internship opportunities and entry-level software development roles<br>🚀 Interested in software development, problem solving, and building impactful projects  <br>⚡ Always eager to learn, code, and take on new challenges
 
 
 ## 🌐 Socials:
