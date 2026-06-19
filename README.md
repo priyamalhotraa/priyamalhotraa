@@ -41,7 +41,7 @@
 
 
 <p >
-  <img src="https://streak-stats.demolab.com/?user=priyamalhotraa&theme=onedark&hide_border=true&v=2" width="55%"/>
+  <img src="https://streak-stats.demolab.com/?user=priyamalhotraa&theme=onedark&hide_border=true&v=3" width="55%"/>
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyamalhotraa&theme=onedark&hide_border=true&layout=compact&v=2" width="39.5%"/>
 </p>
